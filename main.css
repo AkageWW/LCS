@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap');
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+#OPINION{
+    height: 100%;
+}
+
+:root{
+    --color1:#263560;
+
+}
+
+
+/* NAVBAR */
+.navbar-custom {
+    background-color:#263560 ;
+
+}
+.navbar * a{
+    color:#fff
+}
+.navbar * a:hover,.navbar-brand:hover{
+    color:#fff
+}
+.navbar-brand{
+    padding-left: 2rem;
+    font-weight:600;
+}
+.dropdown-menu{
+    background-color:#263560 ;
+}
+.dropdown-item:hover{
+    background-color:#34487e ;
+}
+
+.navbar-toggler:enabled{
+    color:#FEB647;
+}
+
+.container-fluid>button{
+    border: none;
+    outline: none;
+}
+
+/* HERO */
+
+#hero{
+    background: url(./IMG/Hotdog_29.webp),linear-gradient(#e7e9e8a9,#afb4b349) ;
+    background-blend-mode: soft-light;
+    background-size: cover;
+    min-height: 40vh;
+    background-position: center center;
+}
+/* newsletter */
+
+.newsletter-bg{
+background-color: #263560;
+color:#fff
+}
+
+/* GALERIA */
+#carouselExampleIndicators .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 38vh;
+    overflow: hidden;
+
+}
+
+/* OPINIE */
+.card{
+    height: 100%;
+}
+
+/* FOOTER */
+footer .container-fluid{
+    background-color: #263560;
+    color:#fff;
+}
+/* GUZIK */
+
+.btn-custom{
+    background-color: #FEB647;
+    width: 30%;
+    border: #FEB647;
+
+}
+
+
+
+
+
+
+
+
+

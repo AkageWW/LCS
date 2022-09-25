@@ -1,0 +1,145 @@
+
+.card{
+    min-width: 30ch;
+    max-width: 40ch;
+    background-size: cover;
+    padding: 10rem 0 0;
+    line-height: 1.6;
+    border-radius: 1.9rem;
+    border: none;
+
+    
+    transform: scale(1);
+    transition: transform 600ms ease;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.col-md{
+    margin: 0.9rem
+}
+
+.card:hover, .card:focus-within{
+    transform: scale(1.05);
+}
+
+.card-content{
+    --padding:2rem;
+    padding: var(--padding);
+}
+
+
+
+.j1{
+
+    background-position: -10rem;
+    background: url(./IMG/JAPOŃSKIE/Jester_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.j2{
+
+    background-position: -10rem;
+    background: url(./IMG/JAPOŃSKIE/Elegy.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.j3{
+
+    background-position: -10rem;
+    background: url(./IMG/JAPOŃSKIE/Sultan_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.j4{
+
+    background-position: -10rem;
+    background: url(./IMG/JAPOŃSKIE/Uranus_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.a1{
+
+    background-position: -10rem;
+    background: url(./IMG/MUSCLE/Blade_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.a2{
+
+    background-position: -10rem;
+    background: url(./IMG/MUSCLE/Remington_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.a3{
+
+    background-position: -10rem;
+    background: url(./IMG/MUSCLE/Savanna_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.a4{
+
+    background-position: -10rem;
+    background: url(./IMG/MUSCLE/Tornado_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.s1{
+
+    background-position: -10rem;
+    background: url(./IMG/SUPER/Banshee_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.s2{
+
+    background-position: -10rem;
+    background: url(./IMG/SUPER/Bullet_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.s3{
+
+    background-position: -10rem;
+    background: url(./IMG/SUPER/Turismo_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.s4{
+
+    background-position: -10rem;
+    background: url(./IMG/SUPER/ZR-350_29.webp);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
+
+
+
+
+
