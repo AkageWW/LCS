@@ -77,6 +77,12 @@ color:#fff
 }
 
 /* FOOTER */
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
 footer .container-fluid{
     background-color: #263560;
     color:#fff;
